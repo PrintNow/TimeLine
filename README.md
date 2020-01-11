@@ -1,6 +1,8 @@
 # Time-line
 纯 CSS 实现的 时间线，也支持使用 JavaScript 生成
 
+![Time-line 预览图](https://i.loli.net/2020/01/11/h3AJcmNTKsSiQZF.png)
+
 # HTML 渲染
 你只需要根据 `timeLine.html` 代码结构进行简单的修改即可实现
 
