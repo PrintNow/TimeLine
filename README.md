@@ -1,6 +1,6 @@
 # Time-line
-纯 CSS 实现的 时间线，也支持使用 JavaScript 生成
-
+纯 CSS 实现的 时间线，也支持使用 JavaScript 生成。
+[DEMO | 演示](https://nowtime.cc/time-line.html)
 ![Time-line 预览图](https://i.loli.net/2020/01/11/h3AJcmNTKsSiQZF.png)
 
 # HTML 渲染
